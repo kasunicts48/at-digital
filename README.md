@@ -5,7 +5,7 @@
 Make sure you have the following installed:
 
 - **Node.js** (version 14 or higher recommended)
-- **npm** (comes with Node.js) or **Yarn** as the package manager
+- **npm** (comes with Node.js) package manager
 
 ## Getting Started
 
