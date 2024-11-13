@@ -9,11 +9,11 @@ Make sure you have the following installed:
 
 ## Getting Started
 
-### 1. Clone the Repository
-
 ```bash
-git clone <repository-url>
-cd <project-name>
+
+# Clone the Repository
+git clone [[<repository-url>]()](https://github.com/kasunicts48/at-digital)
+cd at-digital
 
 # Install Dependencies
 npm install
