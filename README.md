@@ -12,7 +12,7 @@ Make sure you have the following installed:
 ```bash
 
 # Clone the Repository
-git clone [[<repository-url>]()](https://github.com/kasunicts48/at-digital)
+git clone https://github.com/kasunicts48/at-digital
 cd at-digital
 
 # Install Dependencies
